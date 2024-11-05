@@ -24,4 +24,5 @@ Soy ingeniero con experiencia en análisis y visualización de datos, gestión d
 ---
 
 ¡Gracias por visitar mi perfil! 😊 Si tienes algún proyecto o idea en mente, no dudes en contactarme.
-<img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="200" />
+------
+<img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="400" />
