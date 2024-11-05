@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Luis Gerardo Tequia Tequia
 
-<img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="200" />
-
 ### 👨‍💻 Jefe de Planeación y Mejora Continua | Especialista en Big Data y Visualización
 
 Soy ingeniero con experiencia en análisis y visualización de datos, gestión de procesos, auditoría de calidad y sostenibilidad. A lo largo de mi carrera, he liderado proyectos para optimizar procesos y toma de decisiones basadas en datos, con un enfoque en la transformación digital y la mejora continua. Mis habilidades abarcan desde la creación de sistemas de recopilación y análisis de datos hasta la implementación de estrategias basadas en normas ISO, siempre alineadas con los objetivos organizacionales y la sostenibilidad. Utilizo herramientas como **Power BI**, **PostgreSQL**, **MySQL** y **Excel** para asegurar que cada decisión esté respaldada por datos precisos y relevantes.
@@ -26,3 +24,4 @@ Soy ingeniero con experiencia en análisis y visualización de datos, gestión d
 ---
 
 ¡Gracias por visitar mi perfil! 😊 Si tienes algún proyecto o idea en mente, no dudes en contactarme.
+<img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="200" />
