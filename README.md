@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luis Gerardo Tequia Tequia
 
-![IA & Big Data](https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png)
+<img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="200" />
 
 ### 👨‍💻 Jefe de Planeación y Mejora Continua | Especialista en Big Data y Visualización
 
