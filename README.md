@@ -9,7 +9,7 @@ Soy ingeniero con experiencia en análisis y visualización de datos, gestión d
 ### 🛠️ Tecnologías y herramientas
 
 - **Análisis de datos**: Power BI, Excel, R Studio
-- **Bases de datos**: PostgreSQL, MySQL
+- **Bases de datos**: PostgreSQL, MySQL, Mongo DB
 - **Otros**: SAP QM, Office 365, Python
 
 ---
