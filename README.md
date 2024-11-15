@@ -21,9 +21,8 @@ Soy ingeniero con experiencia en análisis y visualización de datos, gestión d
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tu-perfil-facebook)
 
 ---
+Nuestras virtudes y nuestros fallos son inseparables como fuerza y materia.Cuando se separan el hombre no existe. By: Nikola Tesla
 
 ¡Gracias por visitar mi perfil! 😊 Si tienes algún proyecto o idea en mente, no dudes en contactarme.
-
-¡Nuestras virtudes y nuestros fallos son inseparables como fuerza y materia.Cuando se separan el hombre no existe. By: Nikola Tesla
 ------
 <img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="400" />
