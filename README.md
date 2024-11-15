@@ -8,7 +8,7 @@ Soy ingeniero con experiencia en análisis y visualización de datos, gestión d
 
 ### 🛠️ Tecnologías y herramientas
 
-- **Análisis de datos**: Power BI, Excel, R Studio
+- **Análisis y Visaulzación de datos**: Power BI, Excel, R Studio
 - **Bases de datos**: PostgreSQL, MySQL, Mongo DB
 - **Otros**: SAP QM, Office 365, Python
 
@@ -23,5 +23,7 @@ Soy ingeniero con experiencia en análisis y visualización de datos, gestión d
 ---
 
 ¡Gracias por visitar mi perfil! 😊 Si tienes algún proyecto o idea en mente, no dudes en contactarme.
+
+¡Nuestras virtudes y nuestros fallos son inseparables como fuerza y materia.Cuando se separan el hombre no existe. By: Nikola Tesla
 ------
 <img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/IA%20%26%20Big%20Data.png" alt="IA & Big Data" width="400" />
