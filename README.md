@@ -2,7 +2,9 @@
 
 ### 👨‍💻 Especialista en Big Data y Visualización
 
-Soy ingeniero con experiencia en análisis y visualización de datos, gestión de procesos, auditoría de calidad y sostenibilidad. A lo largo de mi carrera, he liderado proyectos para optimizar procesos y toma de decisiones basadas en datos, con un enfoque en la transformación digital y la mejora continua. Mis habilidades abarcan desde la creación de sistemas de recopilación y análisis de datos hasta la implementación de estrategias, siempre alineadas con los objetivos organizacionales y la sostenibilidad. Utilizo herramientas como **Power BI**, **PostgreSQL**, **MySQL** y **Excel** para asegurar que cada decisión esté respaldada por datos precisos y relevantes.
+Ingeniero Industrial con especialización en Inteligencia Artificial & Big Data y maestría en Análisis y Visualización de Grandes Datos, con más de 9 años de experiencia liderando iniciativas de analítica, inteligencia de negocios, optimización de procesos y transformación basada en datos. He liderado proyectos de Business Intelligence, automatización y mejora continua mediante el desarrollo de dashboards ejecutivos en Power BI y Tableau, implementación de procesos ETL/ELT, modelamiento de datos y análisis avanzado con 
+Python, SQL, Azure y tecnologías Big Data. Además, cuento con experiencia en gestión de proyectos bajo metodologías ágiles (SCRUM), administración de bases de datos relacionales y NoSQL, y construcción de soluciones analíticas orientadas a la toma de decisiones estratégicas y operativas.  
+Mi perfil combina liderazgo estratégico, pensamiento analítico y orientación a resultados, con experiencia en gobierno y calidad del dato, definición de KPIs corporativos, optimización de procesos y transformación digital en entornos de alta exigencia operativa. He trabajado de manera transversal con áreas comerciales, financieras, operativas y tecnológicas, impulsando iniciativas de eficiencia, automatización y cultura data-driven que generan impacto en la rentabilidad, la productividad y la experiencia del cliente.
 
 ---
 
