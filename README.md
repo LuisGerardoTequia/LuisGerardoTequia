@@ -29,4 +29,4 @@ Nuestras virtudes y nuestros fallos son inseparables como fuerza y materia.Cuand
 
 ¡Gracias por visitar mi perfil! 😊 Si tienes algún proyecto o idea en mente, no dudes en contactarme.
 ------
-<p align="center"> <img src="https://raw.githubusercontent.com/LuisGerardoTequia/LuisGerardoTequia/main/perfil.png" alt="IA & Big Data" width="400"/> </p>
+ ![Perfil](https://github.com/LuisGerardoTequia/LuisGerardoTequia/blob/main/IA%20%26%20Big%20Data.png)
