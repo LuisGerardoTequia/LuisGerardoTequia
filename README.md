@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luis Gerardo Tequia Tequia
 
-### 👨‍💻 Especialista en Big Data y Visualización
+### 👨‍💻 Especialista en Inteligencia de Negocio y Mercado
 
 Ingeniero Industrial con especialización en Inteligencia Artificial & Big Data y maestría en Análisis y Visualización de Grandes Datos, con más de 9 años de experiencia liderando iniciativas de analítica, inteligencia de negocios, optimización de procesos y transformación basada en datos. He liderado proyectos de Business Intelligence, automatización y mejora continua mediante el desarrollo de dashboards ejecutivos en Power BI y Tableau, implementación de procesos ETL/ELT, modelamiento de datos y análisis avanzado con 
 Python, SQL, Azure y tecnologías Big Data. Además, cuento con experiencia en gestión de proyectos bajo metodologías ágiles (SCRUM), administración de bases de datos relacionales y NoSQL, y construcción de soluciones analíticas orientadas a la toma de decisiones estratégicas y operativas.  
